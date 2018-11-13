@@ -1,0 +1,2 @@
+VM_IR01	: untuk interrrupt 0 
+VM_IR01_b	: untuk interrrupt 1
